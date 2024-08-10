@@ -44,11 +44,11 @@ class Claimer:
                     raise InvalidSession(self.session_name)
 
             web_view = await self.tg_client.invoke(RequestWebView(
-                peer=await self.tg_client.resolve_peer('pocketfi_bot'),
-                bot=await self.tg_client.resolve_peer('pocketfi_bot'),
+                peer=await self.tg_client.resolve_peer('Mdaowalletbot'),
+                bot=await self.tg_client.resolve_peer('Mdaowalletbot'),
                 platform='android',
                 from_bot_menu=False,
-                url='https://gm.pocketfi.org/mining/'
+                url='https://zavod.mdaowallet.com/'
             ))
 
             auth_url = web_view.url
