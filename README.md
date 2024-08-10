@@ -1,7 +1,4 @@
-[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/sho6ot)
-
-
-![img1](.github/images/demo.png)
+#ZAVOD Wallet bot
 
 > 🇪🇳 README in english available [here](README-EN.md)
 
@@ -16,7 +13,7 @@
 | Поддержка tdata / pyrogram .session / telethon .session        |        ✅        |
 
 
-## [Настройки](https://github.com/shamhi/PocketFiBot/blob/main/.env-example)
+## [Настройки](https://github.com/OOO-YU/ZavodBot/blob/main/.env-example)
 | Настройка               | Описание                                                                  |
 |-------------------------|---------------------------------------------------------------------------|
 | **API_ID / API_HASH**   | Данные платформы, с которой запускать сессию Telegram _(сток - Android)_  |
@@ -26,13 +23,13 @@
 
 
 ## Установка
-Вы можете скачать [**Репозиторий**](https://github.com/shamhi/PocketFiBot) клонированием на вашу систему и установкой необходимых зависимостей:
+Вы можете скачать [**Репозиторий**](https://github.com/OOO-YU/ZavodBot) клонированием на вашу систему и установкой необходимых зависимостей:
 ```shell
-~ >>> git clone https://github.com/shamhi/PocketFiBot.git 
+~ >>> git clone https://github.com/OOO-YU/ZavodBot.git 
 ~ >>> cd PocketFiBot
 
 # Если вы используете Telethon сессии, то клонируйте ветку "converter"
-~ >>> git clone https://github.com/shamhi/PocketFiBot.git -b converter
+~ >>> git clone https://github.com/OOO-YU/ZavodBot.git -b converter
 ~ >>> cd PocketFiBot
 
 # Linux

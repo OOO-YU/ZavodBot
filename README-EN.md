@@ -1,7 +1,4 @@
-[<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/sho6ot)
-
-
-![img1](.github/images/demo.png)
+#ZAVOD Wallet bot
 
 > 🇷🇺 README на русском доступен [здесь](README.md)
 
@@ -15,7 +12,7 @@
 | Random number of clicks per request                            |     ✅     |
 | Support tdata / pyrogram .session / telethon .session          |     ✅     |
 
-## [Settings](https://github.com/shamhi/PocketFiBot/blob/main/.env-example)
+## [Settings](https://github.com/OOO-YU/ZavodBot/blob/main/.env-example)
 | Настройка               | Описание                                                                   |
 |-------------------------|----------------------------------------------------------------------------|
 | **API_ID / API_HASH**   | Platform data from which to launch a Telegram session (stock - Android)    |
@@ -24,13 +21,13 @@
 | **USE_PROXY_FROM_FILE** | Whether to use proxy from the `bot/config/proxies.txt` file (True / False) |
 
 ## Installation
-You can download [**Repository**](https://github.com/shamhi/PocketFiBot) by cloning it to your system and installing the necessary dependencies:
+You can download [**Repository**](https://github.com/OOO-YU/ZavodBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-~ >>> git clone https://github.com/shamhi/PocketFiBot.git
+~ >>> git clone https://github.com/OOO-YU/ZavodBot.git
 ~ >>> cd PocketFiBot
 
 # If you are using Telethon sessions, then clone the "converter" branch
-~ >>> git clone https://github.com/shamhi/PocketFiBot.git -b converter
+~ >>> git clone https://github.com/OOO-YU/ZavodBot.git -b converter
 ~ >>> cd PocketFiBot
 
 #Linux
