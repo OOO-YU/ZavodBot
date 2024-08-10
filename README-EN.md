@@ -1,4 +1,4 @@
-#ZAVOD Wallet bot
+# ZAVOD Wallet bot
 
 > 🇷🇺 README на русском доступен [здесь](README.md)
 
